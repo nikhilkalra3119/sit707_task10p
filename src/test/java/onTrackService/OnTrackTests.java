@@ -33,7 +33,7 @@ OnTrackService.ProgressReportService();
  @Test 
  public void testStudentName() { 
  String studentName = "Sandriya"; 
- assertNotNull("Student name is null", studentName); 
+ asseterNotNull("Student name is null", studentName); 
  } 
  
   // Task Collaboration Test Cases 
